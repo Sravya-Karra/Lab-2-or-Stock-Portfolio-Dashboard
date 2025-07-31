@@ -279,12 +279,6 @@ Now, let's add the save functionality. We will add an event listener to the save
     }
   });
   ```
-  Now we should have a fully functioning dashboard. Let's test it out.
-## Guidance and Testing
+  Now we should have a fully functioning dashboard.
+  
 
-1. The steps above should walk you through creating the layout to match the mockup. You can review the video walkthrough for further guidance.
-
-
-## Submission
-
-Once you have completed the lab, please submit your code to the Replit classroom. You can do this by clicking the "Share" button in the top right corner of the Replit editor. Then, click the "Share to Classroom" button. You should see a list of classes that you are enrolled in. Select the class that you are enrolled in and click the "Share" button. You should see a message that your code has been shared with the class. You can now close the share window.
